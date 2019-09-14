@@ -9,6 +9,10 @@
             <e p="ObserveScript.cs" t="Include" />
             <e p="OnVisibleScript.cs" t="Include" />
           </e>
+          <e p="Example02" t="Include">
+            <e p="CheckGroundedWithRaycast.cs" t="Include" />
+            <e p="CheckGroundedWithRx.cs" t="Include" />
+          </e>
         </e>
         <e p="Plugins" t="Include">
           <e p="UniRx" t="Include">
