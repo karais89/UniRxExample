@@ -17,6 +17,13 @@
             <e p="ColdExample.cs" t="Include" />
             <e p="HotExample.cs" t="Include" />
           </e>
+          <e p="Example04" t="Include">
+            <e p="CountDownSoundComponent.cs" t="Include" />
+            <e p="CountDownTextComponent.cs" t="Include" />
+            <e p="CountTimeExample.cs" t="Include" />
+            <e p="GameTimerManager.cs" t="Include" />
+            <e p="RxCountDownTimer.cs" t="Include" />
+          </e>
         </e>
         <e p="Plugins" t="Include">
           <e p="UniRx" t="Include">
