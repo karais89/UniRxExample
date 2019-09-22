@@ -31,6 +31,10 @@
             <e p="RoomListView.cs" t="Include" />
             <e p="RoomsUpdateObserver.cs" t="Include" />
           </e>
+          <e p="Example06" t="Include">
+            <e p="PlayerAnimationController.cs" t="Include" />
+            <e p="PlayerExample.cs" t="Include" />
+          </e>
         </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
