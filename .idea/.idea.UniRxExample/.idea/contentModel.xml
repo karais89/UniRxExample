@@ -52,6 +52,13 @@
             <e p="Example10.cs" t="Include" />
             <e p="UniRxSample.cs" t="Include" />
           </e>
+          <e p="Example11" t="Include">
+            <e p="Coroutine2Example.cs" t="Include" />
+            <e p="CoroutineExample.cs" t="Include" />
+            <e p="InvokeExample.cs" t="Include" />
+            <e p="ObservableReturnExample.cs" t="Include" />
+            <e p="ObservableTimerExample.cs" t="Include" />
+          </e>
         </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
