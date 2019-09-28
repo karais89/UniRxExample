@@ -48,6 +48,10 @@
           <e p="Example09" t="Include">
             <e p="ObservableLifeTime.cs" t="Include" />
           </e>
+          <e p="Example10" t="Include">
+            <e p="Example10.cs" t="Include" />
+            <e p="UniRxSample.cs" t="Include" />
+          </e>
         </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
