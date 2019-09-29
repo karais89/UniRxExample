@@ -59,6 +59,12 @@
             <e p="ObservableReturnExample.cs" t="Include" />
             <e p="ObservableTimerExample.cs" t="Include" />
           </e>
+          <e p="Example12" t="Include">
+            <e p="Example12.cs" t="Include" />
+            <e p="OutExample.cs" t="Include" />
+            <e p="TupleExample.cs" t="Include" />
+            <e p="UniRxTupleExample.cs" t="Include" />
+          </e>
         </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
