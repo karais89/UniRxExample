@@ -63,7 +63,13 @@
             <e p="Example12.cs" t="Include" />
             <e p="OutExample.cs" t="Include" />
             <e p="TupleExample.cs" t="Include" />
-            <e p="UniRxTupleExample.cs" t="Include" />
+          </e>
+          <e p="Example13" t="Include">
+            <e p="MouseExample.cs" t="Include" />
+            <e p="RepeatExample.cs" t="Include" />
+            <e p="RepeatReturnExample.cs" t="Include" />
+            <e p="RepeatSubjectExample.cs" t="Include" />
+            <e p="RepeatTimerExample.cs" t="Include" />
           </e>
         </e>
         <e p="Photon" t="Include">
