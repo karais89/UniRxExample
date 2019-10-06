@@ -80,6 +80,14 @@
           <e p="Example16" t="Include">
             <e p="Example16.cs" t="Include" />
           </e>
+          <e p="Example17" t="Include">
+            <e p="ConnectServerResult.cs" t="Include" />
+            <e p="ConnectToPhotonServerSample.cs" t="Include" />
+            <e p="Example17.cs" t="Include" />
+            <e p="PhotonCallbacks.cs" t="Include" />
+            <e p="PhotonSingletonMonoBehaviourFast.cs" t="Include" />
+            <e p="SingletonMonoBehaviourFast.cs" t="Include" />
+          </e>
         </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
