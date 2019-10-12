@@ -88,6 +88,12 @@
             <e p="PhotonSingletonMonoBehaviourFast.cs" t="Include" />
             <e p="SingletonMonoBehaviourFast.cs" t="Include" />
           </e>
+          <e p="Example18" t="Include">
+            <e p="BufferDiff.cs" t="Include" />
+            <e p="BufferFrame.cs" t="Include" />
+            <e p="Example18.cs" t="Include" />
+            <e p="PairwiseExample.cs" t="Include" />
+          </e>
         </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
