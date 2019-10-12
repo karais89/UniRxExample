@@ -94,6 +94,9 @@
             <e p="Example18.cs" t="Include" />
             <e p="PairwiseExample.cs" t="Include" />
           </e>
+          <e p="Example19" t="Include">
+            <e p="Example19_Operator.cs" t="Include" />
+          </e>
         </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
