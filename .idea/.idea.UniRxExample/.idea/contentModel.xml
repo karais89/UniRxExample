@@ -95,7 +95,13 @@
             <e p="PairwiseExample.cs" t="Include" />
           </e>
           <e p="Example19" t="Include">
+            <e p="Example19_Coroutine.cs" t="Include" />
+            <e p="Example19_FromCoroutine.cs" t="Include" />
             <e p="Example19_Operator.cs" t="Include" />
+          </e>
+          <e p="Example20" t="Include">
+            <e p="Example20.cs" t="Include" />
+            <e p="FPSCounter.cs" t="Include" />
           </e>
         </e>
         <e p="Photon" t="Include">
