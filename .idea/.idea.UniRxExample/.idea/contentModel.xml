@@ -103,6 +103,17 @@
             <e p="Example20.cs" t="Include" />
             <e p="FPSCounter.cs" t="Include" />
           </e>
+          <e p="Example21" t="Include">
+            <e p="Example21.cs" t="Include" />
+            <e p="Example21_1.cs" t="Include" />
+            <e p="Example21_2.cs" t="Include" />
+            <e p="MyFilter.cs" t="Include" />
+            <e p="ObservableOperators.cs" t="Include" />
+            <e p="TimeCounter.cs" t="Include" />
+            <e p="TimeCounterRx.cs" t="Include" />
+            <e p="TimerView.cs" t="Include" />
+            <e p="TimerViewRx.cs" t="Include" />
+          </e>
         </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
