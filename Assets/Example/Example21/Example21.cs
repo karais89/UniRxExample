@@ -11,7 +11,7 @@ public class Example21 : MonoBehaviour
         // 3회 Subscrbie
         subject.Subscribe(msg => Debug.Log("Subscribe1 : " + msg));
         subject.Subscribe(msg => Debug.Log("Subscribe2 : " + msg));
-        subject.Subscribe(msg => Debug.Log("Subscribe3 : " + msg));
+        subject.Subscribe(msg => Debug.Log("Subscribe3 : " + msg)).AddTo(this);
 
         // 이벤트 메시지 발행
         subject.OnNext("안녕하세요");

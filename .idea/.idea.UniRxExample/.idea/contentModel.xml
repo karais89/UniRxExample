@@ -114,6 +114,13 @@
             <e p="TimerView.cs" t="Include" />
             <e p="TimerViewRx.cs" t="Include" />
           </e>
+          <e p="Example22" t="Include">
+            <e p="DisposeExample.cs" t="Include" />
+            <e p="Example22_PlayerMover.cs" t="Include" />
+            <e p="Example22_TimeCounter.cs" t="Include" />
+            <e p="GameInitializer.cs" t="Include" />
+            <e p="OnErrorExample.cs" t="Include" />
+          </e>
         </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
