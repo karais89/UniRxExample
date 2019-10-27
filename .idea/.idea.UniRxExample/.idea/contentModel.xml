@@ -121,6 +121,14 @@
             <e p="GameInitializer.cs" t="Include" />
             <e p="OnErrorExample.cs" t="Include" />
           </e>
+          <e p="Example23" t="Include">
+            <e p="Example23_ObservableCreate.cs" t="Include" />
+            <e p="Example23_ObservableStart.cs" t="Include" />
+            <e p="Example23_ObservableTimer.cs" t="Include" />
+            <e p="Example23_ReactiveCollection.cs" t="Include" />
+            <e p="Example23_ReactiveProperty.cs" t="Include" />
+            <e p="TestReactiveProperty.cs" t="Include" />
+          </e>
         </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
