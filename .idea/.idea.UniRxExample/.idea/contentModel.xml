@@ -134,6 +134,12 @@
             <e p="Example23_uGUI.cs" t="Include" />
             <e p="TestReactiveProperty.cs" t="Include" />
           </e>
+          <e p="Example24" t="Include">
+            <e p="PlayerAnimation.cs" t="Include" />
+            <e p="PlayerHealth.cs" t="Include" />
+            <e p="PlayerMove.cs" t="Include" />
+            <e p="PlayerSound.cs" t="Include" />
+          </e>
         </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
