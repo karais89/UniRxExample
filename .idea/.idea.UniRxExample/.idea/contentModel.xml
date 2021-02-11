@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+    <e p="C:\Users\Lonpeach\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lonpeach\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_UniRxExample.1300123006.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Lonpeach\Documents\GitHub\UniRxExample" t="IncludeRecursive">
+      <e p=".git\info\exclude" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Effekseer" t="Include">
+          <e p="Editor" t="Include">
+            <e p="EffekseerAssetInspector.cs" t="Include" />
+            <e p="EffekseerAssetPostProcessor.cs" t="Include" />
+            <e p="EffekseerEditor.cs" t="Include" />
+            <e p="EffekseerEmitterEditor.cs" t="Include" />
+            <e p="EffekseerPluginSwitcher.cs" t="Include" />
+            <e p="EffekseerSystemEditor.cs" t="Include" />
+            <e p="EffekseerTool.cs" t="Include" />
+          </e>
+          <e p="Example" t="Include">
+            <e p="EfkBasic.cs" t="Include" />
+          </e>
+          <e p="Materials" t="Include">
+            <e p="StandardDistortionShader.shader" t="Include" />
+            <e p="StandardModelDistortionShader.shader" t="Include" />
+            <e p="StandardModelShader.shader" t="Include" />
+            <e p="StandardShader.shader" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Effekseer.cs" t="Include" />
+            <e p="EffekseerEffectAsset.cs" t="Include" />
+            <e p="EffekseerEmitter.cs" t="Include" />
+            <e p="EffekseerHandle.cs" t="Include" />
+            <e p="EffekseerModelAsset.cs" t="Include" />
+            <e p="EffekseerPlayableAsset.cs" t="Include" />
+            <e p="EffekseerPlayableBehaviour.cs" t="Include" />
+            <e p="EffekseerRenderer.cs" t="Include" />
+            <e p="EffekseerRuntime.cs" t="Include" />
+            <e p="EffekseerSettings.cs" t="Include" />
+            <e p="EffekseerSound.cs" t="Include" />
+            <e p="EffekseerSystem.cs" t="Include" />
+          </e>
+          <e p="ScriptsExternal" t="Include">
+            <e p="EffekseerRendererLWRP.cs" t="Include" />
+          </e>
+        </e>
         <e p="Example" t="Include">
           <e p="Example01" t="Include">
             <e p="ObserveScript.cs" t="Include" />
@@ -156,6 +196,38 @@
             <e p="Example26.cs" t="Include" />
             <e p="Example26_1.cs" t="Include" />
             <e p="Example26_2.cs" t="Include" />
+          </e>
+          <e p="Example27" t="Include">
+            <e p="ObjectA.cs" t="Include" />
+            <e p="ObjectB.cs" t="Include" />
+          </e>
+          <e p="Example28" t="Include">
+            <e p="EffectManager.cs" t="Include" />
+            <e p="EffectPool.cs" t="Include" />
+            <e p="EffectPoolAsync.cs" t="Include" />
+            <e p="ExplosionEffect.cs" t="Include" />
+          </e>
+          <e p="Example29" t="Include">
+            <e p="GameScenes.cs" t="Include" />
+            <e p="SceneDataPack.cs" t="Include" />
+            <e p="SingletonMonoBehaviour.cs" t="Include" />
+            <e p="TransitionManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Fade" t="Include">
+          <e p="Materials" t="Include">
+            <e p="UI-Fade-Alpha.shader" t="Include" />
+            <e p="UI-Fade-Cutout.shader" t="Include" />
+            <e p="UI-Mask.shader" t="Include" />
+          </e>
+          <e p="Samples" t="Include">
+            <e p="FadeTest.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Fade.cs" t="Include" />
+            <e p="FadeImage.cs" t="Include" />
+            <e p="FadeUI.cs" t="Include" />
+            <e p="IFade.cs" t="Include" />
           </e>
         </e>
         <e p="Photon" t="Include">
@@ -818,6 +890,8 @@
           </e>
         </e>
       </e>
+      <e p="Effekseer.csproj" t="IncludeRecursive" />
+      <e p="EffekseerEditor.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="PhotonChat.csproj" t="IncludeRecursive" />
@@ -831,12 +905,10 @@
       <e p="PhotonWebSocket.csproj" t="IncludeRecursive" />
       <e p="PunDemos.DemoHubEditor.csproj" t="IncludeRecursive" />
       <e p="PunDemos.DemoSlotcarEditor.csproj" t="IncludeRecursive" />
-      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
       <e p="UniRx.csproj" t="IncludeRecursive" />
       <e p="UniRx.Examples.csproj" t="IncludeRecursive" />
       <e p="UniRxExample.sln" t="IncludeFlat" />
     </e>
-    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_UniRxExample.1302385295.00" t="ExcludeRecursive" />
   </component>
 </project>
